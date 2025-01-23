@@ -1,2 +1,2 @@
 # angular
-prueba
+Create new app
